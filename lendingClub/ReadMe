@@ -1,3 +1,3 @@
-Download data from https://www.kaggle.com/wendykan/lending-club-loan-data/data
-Seperate the loan status to 2 groups (response variable): If loan status in ['Current','Issued'] then set to 0, else set to 1
-code is in 'main.ipynb' 
+Download data from https://www.kaggle.com/wendykan/lending-club-loan-data/data;
+Seperate the loan status to 2 groups (response variable): If loan status in ['Current','Issued'] then set to 0, else set to 1;
+code is in 'main.ipynb'.
